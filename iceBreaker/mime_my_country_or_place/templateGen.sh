@@ -6,7 +6,7 @@ echo "" >> instructionFile.txt
 
 echo "Game Summary: please state what the game is in one sentence for participants" >> instructionFile.txt
 
-echo "" >> instructionFile.txt
+
 echo "1) Grouping instructions (please state how members will group themselves)" >> instructionFile.txt
 
 echo "" >> instructionFile.txt
@@ -24,11 +24,6 @@ echo "" >> instructionFile.txt
 
 
 echo "4) Game instructions (please state steps for the game)" >> instructionFile.txt
-
-echo "" >> instructionFile.txt
-
-echo "5) Time Requirement (ice breakers tend to be time sensitive, so state roughly how long the game will take)" >> instructionFile.txt
-
 
 echo "" >> instructionFile.txt
 
