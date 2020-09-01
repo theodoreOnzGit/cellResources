@@ -9,4 +9,6 @@ then
     exit 1
 fi
 
+#http://kb.ictbanking.net/article.php?id=483&oid=5
+
 rm -rf *.txt
