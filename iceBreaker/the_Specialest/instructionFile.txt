@@ -1,0 +1,85 @@
+This is the instruction file for participants ... 
+
+Game Summary: please state what the game is in one sentence for participants
+
+1) Grouping instructions (please state how members will group themselves)
+
+people can be individually grouped or play in teams of two-three to save time
+
+ideally 10 people or 10 people groups would be good.
+
+the game itself should take about 3-5 minutes, but going through the answers is about...
+
+10 people(answers) * 12 qns * 5s (to discuss per question) = 10 -20 minutes
+
+2) Web Resources and other materials... (please state how zoom, electronic devices or other websites are used)
+
+Just use a google form,
+
+there will be 13 survey questions
+
+1 name 
+
+and 12 categories, you can just name it category 1 to 12
+
+should be done over zoom, if in person, then phone should be available.
+
+
+
+3) Physical materials (please state what physical materials participants need to get ready
+
+none, except computer and phone
+
+4) Game instructions (please state steps for the game)
+
+For the participants:
+
+the aim of the game is to come up with words or phrases for each given category that the host reads out
+
+if there is someone who has an answer too similar in meaning to you
+(up to the host how strict you want to be on that)
+
+those answers will not count for scores
+
+the host will then go through each of the answers via screenshare, and see who scores the most!
+
+For the host:
+
+
+as the host, you are to give 12 categories for people to fill in
+
+Ask them to fill things in accordingly in the forms, names, and answers
+
+so this is 13 questions in total, 1 for name, 12 for each category
+
+the categories are in the Question paper file
+
+so share with them the link to your google form
+
+then start reading out the categories 1-12
+
+(use an excel type sheet to copy and paste answers from the google form, if the answers are
+duplicates, then cut and paste it to the bottom)
+
+once everybody is submitted, copy and paste the results of the google form into another spreadsheet
+
+cut and paste answers which are duplicates or irrelevant
+
+use the countA function to score each participant!
+
+after that of course, you can save the file for records.
+
+
+
+
+a
+
+5) Time Requirement (ice breakers tend to be time sensitive, so state roughly how long the game will take)
+
+15-25 mins (if fewer people, lesser time required)
+
+
+
+
+Last Step: Contingency Plan... (what if something goes wrong, wet weather etc)
+Reviews: After playing a round of games, how did the game go and what changes do we need to make
