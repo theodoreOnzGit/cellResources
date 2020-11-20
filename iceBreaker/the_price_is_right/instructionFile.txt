@@ -1,0 +1,89 @@
+This is the instruction file for participants ... 
+
+Game Summary: please state what the game is in one sentence for participants
+
+1) Grouping instructions (please state how members will group themselves)
+
+each person is grouped individually
+
+
+2) Web Resources and other materials... (please state how zoom, electronic devices or other websites are used)
+
+
+can be played over zoom or real life
+
+However, excel spreadsheet or similar (google sheets or LibreOffice calc) is good
+
+
+Google is also allowed, but then if one person uses google, everyone must be able to use google.
+
+
+Google forms is also good for this. But not strictly necessary.
+
+3) Physical materials (please state what physical materials participants need to get ready
+
+phone or computer for calculation and scorekeeping.
+
+You may need one scorekeeper to help.
+
+Else set up a spreadsheet and screenshare.
+
+4) Game instructions (please state steps for the game)
+
+First, the objective of the game is to gain as much money as possible.
+
+How to gain money?
+
+You are supposed to pick an item off amazon or some online shopping platform. 
+Make the people guess how much your item costs. 
+
+If people guess how much your item costs, you gain money and so do they.
+
+If a person guesses within 10% of your cost price, they get $10. And so do you.
+
+If a person guesses within 1% of your cost price, they get $100 and so do you.
+
+If a person guesses exactly your cost price to the cent, you both get 10 times log_10 (item cost) plus $100. This makes it fair across most price ranges.
+
+(so try not to pick anything below $1)
+
+If a person guesses over the price of the object, no money for anybody.
+
+Each person has 30s (1 minute if there are fewer ppl) to help people guess how much the price is. No mention of cost or cost ranges is allowed. No screensharing or mentioning of item number or brand or website is allowed either.
+
+List is not exhaustive, but the idea is that you can't make it too obvious.
+
+But clues as to the item appearance, item type, eg. toaster, or TV or oven and item materials eg. steel or carbon fiber, can be given.
+
+Second, once 30s is up, everyone must guess the price of the item, and the score is tabulated in the spreadsheet or score log
+
+Third, to check the answers:
+
+Person must screenshare the item to show the price.
+
+
+Go through each person in the group. Adding score as you go.
+
+
+
+
+5) Time Requirement (ice breakers tend to be time sensitive, so state roughly how long the game will take)
+
+setting up the spreadsheet may take 3 mins tops.
+
+I can add a template ods spreadsheet in this git.
+
+Counting score may take 2-3 mins max. 
+Less if there are less people to count.
+Google forms will also drastically increase time efficiency for large grps.
+
+
+So each person is about 3-5 mins.
+
+for 10 pax this is about half hr.
+
+for 5 pax or groups this is about 15 minutes. So ideal number is about 5-7.
+
+
+Last Step: Contingency Plan... (what if something goes wrong, wet weather etc)
+Reviews: After playing a round of games, how did the game go and what changes do we need to make
