@@ -11,6 +11,22 @@ Protagonist overcomes tragedy or villain
 
 (examples: superhero comics/movie type)
 
+
+prologue:
+
+You find yourself waking up in the backseat of a car. As you open your eyes, you can barely make out the shapes in front of you. 
+
+You smell smells of engine oil, smoke and burning rubber. You see the driver and the passenger in the front seat knocked out. 
+Their head are bleeding profusely and they seem to be unresponsive. 
+
+As you try to get a sense of what is going on, you notice a sharp pain in your left hand. There, a piece of glass is lodged into your palm. 
+
+You hear calls for help and are somewhat relieved that people are notifying emergency services of what just happened...
+
+(continue the story from here...)
+
+
+
 prompter set 2:
 
 mysterious crime occurs 
