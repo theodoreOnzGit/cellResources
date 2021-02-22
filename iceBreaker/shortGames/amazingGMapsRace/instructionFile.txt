@@ -1,0 +1,135 @@
+This is the instruction file for participants ... 
+
+Game Summary: please state what the game is in one sentence for participants
+
+The idea is basically a PVP google maps race game.
+
+So basically people are split into two groups.
+
+Each group has a particular set of pictures taken off google map's street view.
+
+Now they are supposed to find the address of where this street view was taken from.
+
+First to get all the answers wins.
+
+
+1) Grouping instructions (please state how members will group themselves)
+
+Split the existing group exactly two groups.
+
+any imbalance in team members, then the extra person will help to facilitate 
+the game, by judging, reading instructions etc.
+
+2) Web Resources and other materials... (please state how zoom, electronic devices or other websites are used)
+
+google maps, zoom with breakout room
+google slides
+
+3) Physical materials (please state what physical materials participants need to get ready
+
+laptop, phone etc.
+
+4) Game instructions (please state steps for the game)
+
+Phase 1:
+
+Name a country with region and city. 
+
+Once decided, everyone will go on google maps and find a place of an interesting place or picture. 
+
+Can be a tourist attraction or shop. Try not to use residential areas
+or random roads.
+
+(if tiebreaker is needed, this will be one of the ways to break ties, 
+
+additionally,
+random roads and random residential areas
+ will add a time penalty of 15 mins per random road (outside cities)
+else there will be a score penalty of 2 per random road outside cities
+
+)
+
+Note the address of the location and take a screenshot WITHOUT the address.
+
+Phase 2:
+
+Now players will be split into two groups. By ballot, birthday or
+even just splitting screen in half.
+if there is an extra person, then the extra person will help in facilitating the game. 
+
+By reading the instructions
+
+Roughly equal is okay. (try to have at least 5 ppl per group)
+
+In each group two slides will be developed.
+Players will then use the pictures and locations they found for the slides.
+
+a) the question slides with pictures only, to send to the opposing team 
+so that they can figure out the address
+
+b) the answer slides with the picture AND answers, to check for the answers
+at the end of the game
+
+
+
+Once finished, phase 2 ends.
+
+Phase 3:
+
+Firstly, each team will give BOTH question and answer slides to the 
+facilitator or judging panel.
+
+Now players will exchange questions slides.
+5 minutes will be given. (longer if long games are desired)
+Time will start upon breaking into breakout rooms.
+
+Each team must then see the pictures in the question slides
+and race against time.
+
+At the end of 5 mins, phase 3 is complete.
+
+If any disconnects happen TOO BAD.
+
+for long games, play until all answers are found. then take time limit.
+
+Phase 4:
+
+Now the judges will check the answers of each team, and tally it up with the 
+answer slide.
+
+1 correct answer will result in 1 correct score.
+If the address given is close, any address within 25m (measured on google maps)
+will suffice.
+
+Once this is finished, apply the penalties given random road areas were given.
+-2 score per random road.
+
+if playing such that you want to find all locations of the picture (long game)
+then 15 minute penalty per random road.
+
+Team with highest score (short game - ie 5 min timing) wins!
+
+For long games, ie u wanna find all the spots
+Team with all answers correct first wins. If all answers are correct 
+for both teams, then team with shortest time wins
+
+
+
+5) Time Requirement (ice breakers tend to be time sensitive, so state roughly how long the game will take)
+
+Instructions(phase 1): 5-10 mins
+Fashioning the Race (phase 2): 3-5 mins
+Racing (Phase 3): 5-7 mins (long game ~40mins?)
+Scoring (phase 4): 5-10 mins
+
+Total:
+~20 mins for short game
+~1 hr for long game
+
+numbers also depend on how many people playing. more people means more time needed.
+The extra time is needed to score the answers and etc. 
+
+
+
+Last Step: Contingency Plan... (what if something goes wrong, wet weather etc)
+Reviews: After playing a round of games, how did the game go and what changes do we need to make
