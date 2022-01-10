@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir templateFile
 
 cp templateGen.sh templateFile/.
