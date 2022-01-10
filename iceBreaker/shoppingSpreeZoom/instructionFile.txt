@@ -2,15 +2,99 @@ This is the instruction file for participants ...
 
 Game Summary: please state what the game is in one sentence for participants
 
+
+
+#################################################################################################################
+
+This is one time you get to spend like crazy. Come up with a list seven items of most expensive items you can find on the web. 
+The items must belong to the same category. The total cost will be the sum of these seven items.
+
+The team withe the highest total cost wins.
+
+The winner or winning group will present the items they have found and screenshare with us the website.
+
+#################################################################################################################
+
+
 1) Grouping instructions (please state how members will group themselves)
+
+Group in Groups of 3-5. Split up into separate breakout rooms.
+
+
 
 2) Web Resources and other materials... (please state how zoom, electronic devices or other websites are used)
 
+Google slides, based on a template
+
+slides will show screenshots of each said items
+cost of each item
+and their online shopping url for reference
+
+their sum total
+
+
 3) Physical materials (please state what physical materials participants need to get ready
+
+laptop will suffice
 
 4) Game instructions (please state steps for the game)
 
+- After splitting into groups of about 3-5,
+
+- the group as a whole will decide a category by voting, 
+you can choose from one of the following:
+
+food and beverage
+furniture
+desktops and laptops
+holidays
+luxury items
+gardening
+sportswear
+appliances
+clothing
+beauty and wellness
+
+You can ask for suggestions to add to this pool, make your own pool and then do a zoom poll
+
+- Once the category is chosen, people will go into their breakout rooms where they can start searching and 
+making their powerpoint slides straightaway, and 
+once the last player goes into the breakout room, 
+the 10 minute timer will start
+
+- once 10 minutes is up, people are booted out of their rooms, each team will elect a representative
+to say what is their cost total
+
+- the team with the highest total is meant to share their powerpoint slides via screenshare. 
+
+- At any point in time, if an item is deemed to be out of category, anyone can call for a vote
+if more than 75% of the players deem it to be out of the category, that item is cancelled off the list
+if less than 25% of the players vote it to be out of the category, the team is disqualified from participating
+(if someone wants to call for a vote, ensure to explain this clearly to them, 
+
+items can be struck out regardless of whether they are in the category or not, only the vote matters
+democracy yo)
+
+- Also, anyone can ask questions at anytime about the items
+
+- if the team has presented their items and it is deemed to be valid, that team wins the game!
+
+- the winner will get to choose a team or person to do a forfeit or complete a task (or get a prize)
+
+
 5) Time Requirement (ice breakers tend to be time sensitive, so state roughly how long the game will take)
+
+5 mins briefing, 
+2 mins poll
+10 mins search (or less)
+5 mins presentation
+5 mins Q&A/debate
+5 mins forefeit
+
+32 min total 
+
+
+
 
 Last Step: Contingency Plan... (what if something goes wrong, wet weather etc)
 Reviews: After playing a round of games, how did the game go and what changes do we need to make
